@@ -1,0 +1,27 @@
+name: Garland
+type: theme
+base theme: classy
+description: 'A multi-column theme which can be configured to modify colors and switch between fixed and fluid width layouts.'
+# core: 8.x
+libraries:
+  - garland/global-styling
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  breadcrumb: Breadcrumb
+  title_tabs: 'Title & tabs'
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+# Information added by Drupal.org packaging script on 2016-04-03
+version: '8.x-2.0-alpha1'
+core: '8.x'
+project: 'garland'
+datestamp: 1459700044

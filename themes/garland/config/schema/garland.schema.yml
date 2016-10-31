@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Garland theme.
+
+garland.settings:
+  type: theme_settings
+  label: 'Garland settings'
